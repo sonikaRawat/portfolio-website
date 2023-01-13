@@ -60,11 +60,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [portfolio-website] <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+**[portfolio-website]** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -75,21 +75,21 @@ After you're finished please remove all the comments and instructions!
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="#">HTML</a></li>
   </ul>
 </details>
 
 <details>
   <summary>Server</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
+    <li><a href="#">CSS</a></li>
   </ul>
 </details>
 
 <details>
 <summary>Database</summary>
   <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li><a href="#">FIGMA</a></li>
   </ul>
 </details>
 
@@ -99,9 +99,9 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[home page]**
+- **[responsive]**
+- **[header]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -111,7 +111,7 @@ After you're finished please remove all the comments and instructions!
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Live Demo Link](https://github.com/sonikaRawat/portfolio-website)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -126,6 +126,7 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 
 In order to run this project you need:
+git gub account vs code
 
 <!--
 Example command:
@@ -138,6 +139,7 @@ Example command:
 ### Setup
 
 Clone this repository to your desired folder:
+https://github.com/sonikaRawat/portfolio-website
 
 <!--
 Example commands:
@@ -151,6 +153,7 @@ Example commands:
 ### Install
 
 Install this project with:
+git bash
 
 <!--
 Example command:
@@ -201,15 +204,15 @@ Example:
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Authors <a name="Sonika Rawat"></a>
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Sonika Rawat**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/sonikaRawat/portfolio-website)
+- Twitter: [@twitterhandle](https://twitter.com/sonikaNegiRawat)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/sonika-rawat-aa22901b6/)
 
 👤 **Author2**
 
@@ -225,9 +228,9 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[more resposive]**
+- [ ] **[more pages]**
+- [ ] **[buttons]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -247,7 +250,7 @@ Feel free to check the [issues page](../../issues/).
 
 > Write a message to encourage readers to support your project
 
-If you like this project...
+If you like this project give it a ⭐️
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -257,7 +260,8 @@ If you like this project...
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank Microverse foundation for giving me this opportunity.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
